@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Opensource and Web3**
 
-- 🏀 Apart from tech,  I love playing **basketball and COD Mobile**
+- 🏀 Apart from tech,  I love playing **Basketball and COD Mobile**
 
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://twitter.com/natachijs"> Twitter </a> or <a href="https://natachi-portfolio.vercel.app/">natachi.dev</a> 📹 ✍🏾
