@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **Opensource and Web3**
 
-## Find me around the web 🌎:
-- Learning in public on <a href="https://twitter.com/natachijs">Twitter</a> or <a href="https://natachi-portfolio.vercel.app/">natachi.dev</a> 📹 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/natachijs/">LinkedIn</a> 💼
+- 🏀 Apart from tech,  I love playing **basketball and COD Mobile**
 
-<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oma131&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
- </p>
+## Find me around the web 🌎:
+- Learning in public on <a href="https://twitter.com/natachijs"> Twitter </a> or <a href="https://natachi-portfolio.vercel.app/">natachi.dev</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/natachijs/">LinkedIn</a> 💼
